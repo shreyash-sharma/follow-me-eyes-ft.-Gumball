@@ -35,7 +35,7 @@ If you liked it, don't forget to give a star.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/shreyash-sharma/follow-me-eyes.git
+   git clone https://github.com/shreyash-sharma/follow-me-eyes-ft.-Gumball.git
    ```
 3. Check emscripten version:
    ```sh
