@@ -14,7 +14,7 @@ Just a fun little snippet I wanted to make for sometime. Chose my recent favorit
 
 <!-- Demo -->
 ## Demo
-Live demo here : http://93.119.181.99:7000/
+Live demo here(desktop only 😅) : http://93.119.181.99:7000/
 
 If you liked it, don't forget to give a star.
 
@@ -47,10 +47,14 @@ If you liked it, don't forget to give a star.
    ```
 5. Navigate to http://localhost:7000/
 
+## Roadmap
+
+- [ ] Touch device support
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Just a fun one-off project..
+IDK have fun...
 
 <!-- LICENSE -->
 ## License
