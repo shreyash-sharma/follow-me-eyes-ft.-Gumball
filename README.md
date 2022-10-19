@@ -33,15 +33,15 @@ If you liked it, don't forget to give a star.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo:
    ```sh
    git clone https://github.com/shreyash-sharma/follow-me-eyes-ft.-Gumball.git
    ```
-3. Check emscripten version:
+3. Install required libraries:
    ```sh
    pip3 install -r requirements.txt
    ```
-4. Build WASM files using emscripten
+4. Run the server:
    ```sh
    python3 server.py
    ```
