@@ -62,5 +62,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 
-Project Link: https://github.com/shreyash-sharma/follow-me-eyes
+Project Link: [https://github.com/shreyash-sharma/follow-me-eyes](https://github.com/shreyash-sharma/follow-me-eyes-ft.-Gumball)
 
